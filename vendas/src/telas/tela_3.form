@@ -226,7 +226,7 @@
                           <Data value="3"/>
                         </Column>
                         <Column editable="true" title="Data da Venda" type="java.lang.Object">
-                          <Data value="10/02/2019"/>
+                          <Data value="10/02/2018"/>
                           <Data value="10/02/2019"/>
                           <Data value="10/02/2019"/>
                         </Column>

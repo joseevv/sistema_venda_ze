@@ -114,7 +114,7 @@ public class tela_3 extends javax.swing.JFrame {
         jTable1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {"1", "10/02/2019", "Caio Malheiros", "100.0", "OK"},
+                {"1", "10/02/2018", "Caio Malheiros", "100.0", "OK"},
                 {"2", "10/02/2019", "Caio Malheiros", "200.0", "OK"},
                 {"3", "10/02/2019", "Caio Malheiros", "500.0", "OK"}
             },
