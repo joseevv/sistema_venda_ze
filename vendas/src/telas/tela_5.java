@@ -72,7 +72,7 @@ public class tela_5 extends javax.swing.JFrame {
         jTextField1.setText("800.0");
 
         jTextField2.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
-        jTextField2.setText("10/02/2019");
+        jTextField2.setText("10/02/2024");
 
         jButton1.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton1.setText("Consultar");
